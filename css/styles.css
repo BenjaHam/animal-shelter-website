@@ -3,12 +3,14 @@ h3{
 
 
 
+
 }
 
 
 body{
 
   text-align: center;
+  background-color: tan;
 }
 
 
@@ -16,8 +18,22 @@ img{
 
   height: 300px;
   width: 300px;
+  border: 12px solid brown;
 }
 
 .animals{
   float: left;
+  width: 300px;
+}
+
+
+p{
+
+  font-size: 14px;
+
+}
+
+.animals p{
+    color: darkblue;
+
 }
